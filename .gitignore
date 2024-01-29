@@ -1,0 +1,8 @@
+mylogs.log
+sql.log
+/mylogs.log --- this in the current directory, 
+                it will ignore files in which directory gitignore file is
+
+*.log      ---- it will ignore all the log files 
+*.cpp
+folderName/ ----it will ignore this folder | directory
